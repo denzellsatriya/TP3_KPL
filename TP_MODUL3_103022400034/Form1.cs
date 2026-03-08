@@ -6,5 +6,10 @@ namespace TP_MODUL3_103022400034
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
